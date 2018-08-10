@@ -1,0 +1,6 @@
+[frame="topbot",options="header"]
+|======================
+| Prefix | Track | Link
+| PALG   | Practice/Algoritms | https://www.hackerrank.com/domains/algorithms/warmup
+| ACPE   | AllCompetitions/ProjectEuler | https://www.hackerrank.com/contests/projecteuler/challenges
+|======================
